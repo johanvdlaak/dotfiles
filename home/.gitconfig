@@ -1,0 +1,9 @@
+[user]
+	name = Johan van der Laak
+	email = j.vanderlaak@gynzy.com
+[color]
+	ui = true
+[alias]
+	co = checkout
+	ignore = update-index --assume-unchanged
+	unignore = update-index --no-assume-unchanged
