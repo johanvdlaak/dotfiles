@@ -50,6 +50,9 @@ export PATH=/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/loc
 # PATH=$HOME/.rvm/bin:$PATH # Add RVM to PATH for scripting
 PATH=/Users/Johan/.rvm/gems/ruby-1.9.3-p327@rails3tutorial2ndEd/bin:/Users/Johan/.rvm/gems/ruby-1.9.3-p327@global/bin:/Users/Johan/.rvm/rubies/ruby-1.9.3-p327/bin:$HOME/.rvm/bin:/usr/local/mysql/bin:$PATH # Add RVM to PATH for scripting
 
+# ADD go-pear to PATH for installing PHP extensions like memcached
+PATH=$PATH:$HOME/pear/bin
+
 # Stop it from  correcting
 unsetopt correct_all
 
