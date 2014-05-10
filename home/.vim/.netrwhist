@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/Johan/git/sites/schools'
+let g:netrw_dirhist_2='/Users/Johan/git/sites/schools/app'
+let g:netrw_dirhist_3='/Users/Johan/git/sites/schools/app/controllers'
+let g:netrw_dirhist_4='/Users/Johan/git/sites/schools'
+let g:netrw_dirhist_5='/Users/Johan/git/sites/schools/spec'
+let g:netrw_dirhist_6='/Users/Johan/git/sites/schools/spec/controllers'
