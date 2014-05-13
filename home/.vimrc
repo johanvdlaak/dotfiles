@@ -1,4 +1,5 @@
 set nocompatible
+filetype on
 filetype off
 
 " Load Vundle, store bundles in ~/.vundle.local
